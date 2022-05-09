@@ -3,15 +3,25 @@
 ## 1. Proyecto Arduino
 
 texto
+
 d
+
 d
+
 dd
+
 d
+
 d
+
 d
+
 d
+
 d
+
 d
+
 
 ``` cpp
 int x=2, y=3;
